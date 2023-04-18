@@ -1,0 +1,11 @@
+{
+  "name": "holiday.py",
+  "version": "1.0.0",
+  "description": "This is a command line utility that returns the current holidays.",
+  "main": "holiday.py",
+  "scripts": {
+    "test": "Test"
+  },
+  "author": "Joey Miller",
+  "license": "MIT"
+}
