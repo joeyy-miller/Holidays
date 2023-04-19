@@ -2,3 +2,6 @@
 apikey.py
 from rich.console import Console
 holidays.py/
+__pycache__/apikey.cpython-311.pyc
+.DS_Store
+.DS_Store
